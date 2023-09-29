@@ -9,3 +9,7 @@ for windows and linux
 ```
 pip install streamlink ffmpeg-python tqdm
 ```
+start code
+```
+python3 twitch.py
+```
